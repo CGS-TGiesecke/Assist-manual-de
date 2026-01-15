@@ -81,7 +81,9 @@ In der Übersicht werden alle gespeicherten Zeitpläne angezeigt. Es können hie
 ![Navigationsbereich - Automatisierung - Zeitpläne](images/Abbildung-26.jpg "Navigationsbereich - Automatisierung - Zeitpläne")
 
 Im Bereich Ausführungsprotokolle werden alle Programmläufe gelistet. Über einen Button können die genauen Details angesehen werden.
-Die Lesebestätigung kann verschieden gesetzt werden.
+Die Lesebestätigung kann verschieden gesetzt werden. 
+Blau Schrift ungelesen
+Schwarz gelesen
 Habe es auch gelesen ?????
 
 #### 1.1.4 Navigationsbereich "Dokumente" 
