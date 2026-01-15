@@ -1,10 +1,10 @@
 
 # ARC Assist Anwenderhandbuch
-// = CGS Assist Anwenderhandbuch
 
-Version 2.0
-Autor: CGS
-Datum: 02.02.2026
+| Version | Autor | Datum     |
+| ------- | ----- | --------- |
+| 2.0     | CGS   | 02.02.2026|
+
 
 
 ## Table of Contents
@@ -33,9 +33,9 @@ Zusätzlich kann eine Auswahl der Sprache innerhalb der Anwendung getroffen werd
 
 ![Sprachwechsel und Darkmode](images/Abbildung-3.jpg "Sprachwechsel und Darkmode")
 
-### Assist Anwendung(#Assist-Anwendung)
+### Assist Anwendung (#Assist-Anwendung)
 
-#### Navigationsbereich "KI Chat"(#Navigationsbereich-KI-Chat)
+#### Navigationsbereich "KI Chat" (#Navigationsbereich-KI-Chat)
 
 
 
