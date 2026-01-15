@@ -6,15 +6,14 @@
 | 2.0     | CGS   | 02.02.2026|
 
 
-
-## Table of Contents
+### Inhaltsverzeichnis
 
 - 1 [Anwendungsbeschreibung](#Anwendungsbeschreibung)
-- 2 [Assist Anwendung](#Assist-Anwendung)
-- 3 [Navigationsbereich "KI Chat"](#Navigationsbereich-KI-Chat)
+-- 2 [Assist Anwendung](#Assist-Anwendung)
+--- 3 [Navigationsbereich "KI Chat"](#Navigationsbereich-KI-Chat)
 - 4 [Anwendungsbeschreibung-4](#Anwendungsbeschreibung-4)
 
-## Anwendungsbeschreibung (#Anwendungsbeschreibung)
+## [Anwendungsbeschreibun](#Anwendungsbeschreibung)
 
 Es ist innerhalb von ARC Assist, im weiteren nur noch Assist genannt, möglich, KI-unterstütztes Unternehmenswissen in separaten Chats oder vorbereiteten Anwendungsfällen abzufragen und zu nutzen. 
 Dieses Wissen basiert auf den Inhalten der hinterlegten Dokumente.
@@ -33,9 +32,9 @@ Zusätzlich kann eine Auswahl der Sprache innerhalb der Anwendung getroffen werd
 
 ![Sprachwechsel und Darkmode](images/Abbildung-3.jpg "Sprachwechsel und Darkmode")
 
-### Assist Anwendung (#Assist-Anwendung)
+### [Assist Anwendung](#Assist-Anwendung)
 
-#### Navigationsbereich "KI Chat" (#Navigationsbereich-KI-Chat)
+#### [Navigationsbereich "KI Chat"](#Navigationsbereich-KI-Chat)
 
 
 
