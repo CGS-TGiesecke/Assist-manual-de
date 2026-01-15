@@ -22,6 +22,8 @@ Dieses Wissen basiert auf den Inhalten der hinterlegten Dokumente.
 Alle Chatverläufe und Use Case Verläufe werden gespeichert und können auch nach dem Browser schließen und Neuanmeldung wieder geöffnet werden.
 Bestimmte regelmäßige Anwendungsfälle werden im Assist als Templates verwaltet, um Routinen zu vereinfachen. Die Anwendungsfälle sind mit Use Cases wie eine Art Checkliste erstellt.
 
+![CGS-Assist](images/cgs-Abbildung-start.jpg "CGS Assist")
+
 Über eine Navigation am oberen Rand sind die thematisierten Navigationsbereiche erreichbar.
 
 ![Navigationsbereiche](images/Abbildung-1.jpg "Navigationsbereiche")
@@ -33,7 +35,7 @@ Unterseiten dieser Navigationsbereiche sind dann jeweils über die Baumnavigatio
 Zusätzlich kann eine Auswahl der Sprache innerhalb der Anwendung getroffen werden und die Ansicht in den Dark Mode, bzw. wieder zurück, gewechselt werden.
 
 ![Sprachwechsel und Darkmode](images/Abbildung-3.jpg "Sprachwechsel und Darkmode")
-
+ 
 ### 1.1 Assist Anwendung
 
 #### 1.1.1 Navigationsbereich "KI Chat"
@@ -74,18 +76,19 @@ Die markierte Nummer (rot) zeigt die Anzahl der aktuellen Ergebnisse das letzten
 ![Navigationsbereich - Automatisierung](images/Abbildung-25.jpg "Navigationsbereich - Automatisierung")
 
 Zum Öffnen der Zeitpläne wird auf das Symbol mit Namen geklickt.
-In der Übersicht werden alle gespeicherten Zeitpläne angezeigt, es können Neue ertsellt werden und vorhandene gelöscht werden.
+In der Übersicht werden alle gespeicherten Zeitpläne angezeigt. Es können hier Neue Zeitpläne erstellt werden und/oder vorhandene gelöscht werden.
 
 ![Navigationsbereich - Automatisierung - Zeitpläne](images/Abbildung-26.jpg "Navigationsbereich - Automatisierung - Zeitpläne")
 
-Im Bereich Ausführungsprotokolle werden alle Programmläufe gelistet. Über einen Button können die genauen Details angesehen werden oder die Lesebestätigung gesetzt werden.
+Im Bereich Ausführungsprotokolle werden alle Programmläufe gelistet. Über einen Button können die genauen Details angesehen werden.
+Die Lesebestätigung kann verschieden gesetzt werden.
 Habe es auch gelesen ?????
 
 #### 1.1.4 Navigationsbereich "Dokumente" 
 
 Hier werden alle verfügbaren und durchsuchbaren Dokumente angezeigt, für die der Anwender mit seiner Rolle berechtigt ist.
 Die Dokumente können über einen Button heruntergeladen werden und manuell die Ansicht aktualisiert werden. Über das Reload Icon werden die einzelnen Embeddings, also Teildokumente, nachgeladen. 
-Bei vielen Dokumenten kann es dabei zu Zeitverzögerungen kommt und deshalb wurde ein Lazy-Loading hier implementiert.
+Da es bei sehr vielen Dokumenten zu Zeitverzögerungen kommen kann wurde ein Lazy-Loading implementiert.
 Im oberen Bereich befinden sich Filter- um die Anzahl zu begrenzen und Sortierungsmöglichkeiten nach Quelle, ID und Vorschau.
 Die Filterresultate aktualisieren sich bereits während der Eingabe.
 Über das Upload Icon können Teildokumente geöffnet und gleichzeitig heruntergeladen werden.
