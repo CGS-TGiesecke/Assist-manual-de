@@ -1,5 +1,7 @@
 # Assist-manual-de
 
+<a href="https://cgs-tgiesecke.github.io/Assist-manual-de/">Aktuelle Ansicht</a>
+
 User handbook in German. 
 Change some places from "CGS Assist" to "Arc Assist"
 - docs/index-md 
