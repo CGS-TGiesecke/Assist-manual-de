@@ -7,15 +7,15 @@
 
 
 ### Inhaltsverzeichnis
-- Anwendungsbeschreibung(#anwendungsbeschreibung)
-- Assist Anwendung(#assist-Anwendung)
-- Navigationsbereich "KI Chat"(#navigationsbereich-KI-Chat)
-- Navigationsbereich "Anwendungsfälle"(#navigationsbereichn-Anwendungsfälle)
-- Navigationsbereich "Automatisierung"(#navigationsbereich-Automatisierung)
-- Navigationsbereich "Dokumente"(#navigationsbereich-Dokumente)
+- 1. Anwendungsbeschreibung (#anwendungsbeschreibung)
+- 1.1 Assist Anwendung (#assist-Anwendung)
+- 1.1.1 Navigationsbereich "KI Chat" (#navigationsbereich-KI-Chat)
+- 1.1.2 Navigationsbereich "Anwendungsfälle" (#navigationsbereichn-Anwendungsfälle)
+- 1.1.3 Navigationsbereich "Automatisierung" (#navigationsbereich-Automatisierung)
+- 1.1.4 Navigationsbereich "Dokumente" (#navigationsbereich-Dokumente)
 
 
-## 1. Anwendungsbeschreibung(#anwendungsbeschreibung)
+## 1. Anwendungsbeschreibung (#anwendungsbeschreibung)
 
 Es ist innerhalb von ARC Assist, im weiteren nur noch Assist genannt, möglich, KI-unterstütztes Unternehmenswissen in separaten Chats oder vorbereiteten Anwendungsfällen abzufragen und zu nutzen. 
 Dieses Wissen basiert auf den Inhalten der hinterlegten Dokumente.
@@ -34,12 +34,12 @@ Zusätzlich kann eine Auswahl der Sprache innerhalb der Anwendung getroffen werd
 
 ![Sprachwechsel und Darkmode](images/Abbildung-3.jpg "Sprachwechsel und Darkmode")
 
-### 1.1 Assist Anwendung(#assist-Anwendung)
+### 1.1 Assist Anwendung (#assist-Anwendung)
 
 #### 1.1.1 Navigationsbereich "KI Chat"(#navigationsbereich-KI-Chat)
 ![Navigationsbereich "KI Chat"](images/Abbildung-5.jpg "Navigationsbereich "KI Chat"")
 
-#### 1.1.2 Navigationsbereich "Anwendungsfälle"
+#### 1.1.2 Navigationsbereich "Anwendungsfälle" (#navigationsbereichn-Anwendungsfälle)
 
 Hier werden alle aktivierten Anwendungsfälle, nach den Bereichen gruppiert, angezeigt.
 Anwendungsfälle sind in der Administration hinterlegte und freigegebene Use Case Listen,
@@ -66,7 +66,7 @@ Um einen Use Case zu löschen, muss zuerst der Lösch Button betätigt werden un
 
 ![Navigationsbereich - Anwendungsfälle - Löschen eines Falles](images/Abbildung-10.jpg "Navigationsbereich - Anwendungsfälle - Löschen eines Falles")
 
-#### 1.1.3 Navigationsbereich "Automatisierung"(#navigationsbereich-Automatisierung)
+#### 1.1.3 Navigationsbereich "Automatisierung" (#navigationsbereich-Automatisierung)
 
 Hier werden bei vorhandener Berechtigung, alle automatisierten Anwendungsfälle gelistet und verwaltet.
 Die markierte Nummer (rot) zeigt die Anzahl der aktuellen Ergebnisse das letzten Laufs.
@@ -81,7 +81,7 @@ In der Übersicht werden alle gespeicherten Zeitpläne angezeigt, es können Neu
 Im Bereich Ausführungsprotokolle werden alle Programmläufe gelistet. Über einen Button können die genauen Details angesehen werden oder die Lesebestätigung gesetzt werden.
 Habe es auch gelesen ?????
 
-#### 1.1.4 Navigationsbereich "Dokumente"(#navigationsbereich-Dokumente)
+#### 1.1.4 Navigationsbereich "Dokumente" (#navigationsbereich-Dokumente)
 
 Hier werden alle verfügbaren und durchsuchbaren Dokumente angezeigt, für die der Anwender mit seiner Rolle berechtigt ist.
 Die Dokumente können über einen Button heruntergeladen werden und manuell die Ansicht aktualisiert werden. Über das Reload Icon werden die einzelnen Embeddings, also Teildokumente, nachgeladen. 
