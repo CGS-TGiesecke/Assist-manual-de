@@ -7,8 +7,8 @@
 
 
 ### Inhaltsverzeichnis
-- 1. Anwendungsbeschreibung (#anwendungsbeschreibung)
-- 1.1 Assist Anwendung (#assist-Anwendung)
+- 1 Anwendungsbeschreibung (#anwendungsbeschreibung)
+- 1.1 [Assist Anwendung](#assist-Anwendung)
 - 1.1.1 Navigationsbereich "KI Chat" (#navigationsbereich-KI-Chat)
 - 1.1.2 Navigationsbereich "Anwendungsfälle" (#navigationsbereichn-Anwendungsfälle)
 - 1.1.3 Navigationsbereich "Automatisierung" (#navigationsbereich-Automatisierung)
@@ -34,7 +34,7 @@ Zusätzlich kann eine Auswahl der Sprache innerhalb der Anwendung getroffen werd
 
 ![Sprachwechsel und Darkmode](images/Abbildung-3.jpg "Sprachwechsel und Darkmode")
 
-### 1.1 Assist Anwendung (#assist-Anwendung)
+### [1.1 Assist Anwendung](#assist-Anwendung)
 
 #### 1.1.1 Navigationsbereich "KI Chat"(#navigationsbereich-KI-Chat)
 ![Navigationsbereich "KI Chat"](images/Abbildung-5.jpg "Navigationsbereich "KI Chat"")
