@@ -1,34 +1,41 @@
 
+# ARC Assist Anwenderhandbuch
+// = CGS Assist Anwenderhandbuch
+
+Version 2.0
+Autor: CGS
+Datum: 02.02.2026
+
+
 ## Table of Contents
 
-- 1 [Anwendungsbeschreibung-1](#Anwendungsbeschreibung-1)
-- 2 [Anwendungsbeschreibung-2](#Anwendungsbeschreibung-2)
-- 3 [Anwendungsbeschreibung-3](#Anwendungsbeschreibung-3)
+- 1 [Anwendungsbeschreibung](#Anwendungsbeschreibung)
+- 2 [Assist Anwendung](#Assist-Anwendung)
+- 3 [Navigationsbereich "KI Chat"](#Navigationsbereich-KI-Chat)
 - 4 [Anwendungsbeschreibung-4](#Anwendungsbeschreibung-4)
 
+## Anwendungsbeschreibung (#Anwendungsbeschreibung)
 
-# Anwendungsbeschreibung-1
+Es ist innerhalb von ARC Assist, im weiteren nur noch Assist genannt, möglich, KI-unterstütztes Unternehmenswissen in separaten Chats oder vorbereiteten Anwendungsfällen abzufragen und zu nutzen. 
+Dieses Wissen basiert auf den Inhalten der hinterlegten Dokumente.
+Alle Chatverläufe und Use Case Verläufe werden gespeichert und können auch nach dem Browser schließen und Neuanmeldung wieder geöffnet werden.
+Bestimmte regelmäßige Anwendungsfälle werden im Assist als Templates verwaltet, um Routinen zu vereinfachen. Die Anwendungsfälle sind mit Use Cases wie eine Art Checkliste erstellt.
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Über eine Navigation am oberen Rand sind die thematisierten Navigationsbereiche erreichbar.
 
-![The San Juan Mountains are beautiful](images/Abbildung-1-1.jpg "San Juan Mountains")
+![Navigationsbereiche](images/Abbildung-1.jpg "Navigationsbereiche")
 
-## Anwendungsbeschreibung-2
+Unterseiten dieser Navigationsbereiche sind dann jeweils über die Baumnavigation am linken Rand erreichbar.
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+![Navigationsbereich - Baumnavigation](images/Abbildung-2.jpg "Navigationsbereich - Baumnavigation")
 
-![The San Juan Mountains are beautiful](/images/Abbildung-1-1.jpg "San Juan Mountains")
+Zusätzlich kann eine Auswahl der Sprache innerhalb der Anwendung getroffen werden und die Ansicht in den Dark Mode, bzw. wieder zurück, gewechselt werden.
 
-### Anwendungsbeschreibung-3
+![Sprachwechsel und Darkmode](images/Abbildung-3.jpg "Sprachwechsel und Darkmode")
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+### Assist Anwendung(#Assist-Anwendung)
 
-Text 3
-
-
-#### Anwendungsbeschreibung-4
-
-Text 4
+#### Navigationsbereich "KI Chat"(#Navigationsbereich-KI-Chat)
 
 
 
