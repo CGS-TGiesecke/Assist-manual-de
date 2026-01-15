@@ -8,14 +8,14 @@
 
 ### Inhaltsverzeichnis
 - 1 [Anwendungsbeschreibung](#1-anwendungsbeschreibung)
-- 1.1 [Assist Anwendung](#11-assist-Anwendung)
-- 1.1.1 [Navigationsbereich "KI Chat"](#111-navigationsbereich-KI-Chat)
-- 1.1.2 [Navigationsbereich "Anwendungsfälle"](#112-navigationsbereichn-Anwendungsfälle)
-- 1.1.3 [Navigationsbereich "Automatisierung"](#113-navigationsbereich-Automatisierung)
-- 1.1.4 [Navigationsbereich "Dokumente"](#114-navigationsbereich-Dokumente)
+- 1.1 [Assist Anwendung](#11-assist-anwendung)
+- 1.1.1 [Navigationsbereich "KI Chat"](#111-navigationsbereich-ki-chat)
+- 1.1.2 [Navigationsbereich "Anwendungsfälle"](#112-navigationsbereichn-anwendungsfälle)
+- 1.1.3 [Navigationsbereich "Automatisierung"](#113-navigationsbereich-automatisierung)
+- 1.1.4 [Navigationsbereich "Dokumente"](#114-navigationsbereich-dokumente)
 
 
-## 1. Anwendungsbeschreibung (#anwendungsbeschreibung)
+## 1. Anwendungsbeschreibung 
 
 Es ist innerhalb von ARC Assist, im weiteren nur noch Assist genannt, möglich, KI-unterstütztes Unternehmenswissen in separaten Chats oder vorbereiteten Anwendungsfällen abzufragen und zu nutzen. 
 Dieses Wissen basiert auf den Inhalten der hinterlegten Dokumente.
@@ -34,7 +34,7 @@ Zusätzlich kann eine Auswahl der Sprache innerhalb der Anwendung getroffen werd
 
 ![Sprachwechsel und Darkmode](images/Abbildung-3.jpg "Sprachwechsel und Darkmode")
 
-### [1.1 Assist Anwendung]
+### 1.1 Assist Anwendung
 
 #### 1.1.1 Navigationsbereich "KI Chat"
 ![Navigationsbereich "KI Chat"](images/Abbildung-5.jpg "Navigationsbereich "KI Chat"")
