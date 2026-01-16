@@ -22,6 +22,7 @@
 - 1.2.4 [Systemaufforderung](#124-systemaufforderung)
 - 1.2.5 [LLMs und Einbettungsmodelle](#125llms-und-einbettungsmodelle)
 - 1.2.6 [Anwendungsfälle](#126-anwendungsfälle)
+- 1.2.7 [Lizenzverwaltung](#127-lizenzverwaltung)
 - 2 [Kontakt](#2-kontakt)
 
 
@@ -197,6 +198,17 @@ Die Gruppierung der Anwendungsfälle ist systemseitig festgelegt und wird unter 
 ![Administration - Anwendungsfälle](images/Abbildung-25.jpg "Administration - Anwendungsfälle")
 
 Hinterlegte Vorlagen können deaktiviert werden. Das steuert die Sichtbarkeit/Verfügbarkeit unter Navigation „Anwendungsfälle“.
+
+#### 1.2.7 Lizenzverwaltung
+
+Hier kann die Lizenz verwaltet werden. Es besteht die Möglichkeit der Aktualisierung, wenn die vorhandene ausgetauscht wurde.
+Auch der Kontakt per Mail zum Assist Service ist von hier aus möglich
+
+![Administration - Lizenzverwaltung](images/Abbildung-30.jpg "Administration - Lizenzverwaltung")
+
+Es kann nach Auswahl eine gänzlich neue Lizenz hochgeladen werden.
+
+![Administration - Lizenzverwaltung - Lizenz laden](images/Abbildung-31.jpg "Administration - Lizenzverwaltung - Lizenz laden")
 
 ## 2 Kontakt
 
