@@ -20,7 +20,7 @@
 - 1.2.2.1 [Rollen bearbeiten](#1221-rollen-bearbeiten)
 - 1.2.3 [Ordnerverwaltung](#123-ordnerverwaltung)
 - 1.2.4 [Systemaufforderung](#124-systemaufforderung)
-- 1.2.5 [LLMs und Einbettungsmodelle](#125-llms-und-einbettungsmodelle)
+- 1.2.5 [LLMs und Einbettungsmodelle](#125llms-und-einbettungsmodelle)
 - 1.2.6 [Anwendungsfälle](#126-anwendungsfälle)
 - 2 [Kontakt](#2-kontakt)
 
@@ -83,7 +83,7 @@ Um einen Use Case zu löschen, muss zuerst der Lösch Button betätigt werden un
 Hier werden bei vorhandener Berechtigung, alle automatisierten Anwendungsfälle gelistet und verwaltet.
 Die markierte Nummer (rot) zeigt die Anzahl der aktuellen Ergebnisse das letzten Laufs.
 
-![Navigationsbereich - Automatisierung](images/Abbildung-27.jpg "Navigationsbereich - Automatisierung")
+![Navigationsbereich - Automatisierung](images/Abbildung-25.jpg "Navigationsbereich - Automatisierung")
 
 Zum Öffnen der Zeitpläne wird auf das Symbol mit Namen geklickt.
 In der Übersicht werden alle gespeicherten Zeitpläne angezeigt. Es können hier Neue Zeitpläne erstellt werden und/oder vorhandene gelöscht werden.
