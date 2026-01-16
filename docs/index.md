@@ -108,11 +108,20 @@ Habe es auch gelesen ?????
 #### 1.1.4 Navigationsbereich "Dokumente" 
 
 Hier werden alle verfügbaren und durchsuchbaren Dokumente angezeigt, für die der Anwender mit seiner Rolle berechtigt ist.
-Die Dokumente können über einen Button heruntergeladen werden und manuell die Ansicht aktualisiert werden. Über das Reload Icon werden die einzelnen Embeddings, also Teildokumente, nachgeladen. 
-Da es bei sehr vielen Dokumenten zu Zeitverzögerungen kommen kann wurde ein Lazy-Loading implementiert.
-Im oberen Bereich befinden sich Filter- um die Anzahl zu begrenzen und Sortierungsmöglichkeiten nach Quelle, ID und Vorschau.
-Die Filterresultate aktualisieren sich bereits während der Eingabe.
-Über das Upload Icon können Teildokumente geöffnet und gleichzeitig heruntergeladen werden.
+
+![Navigationsbereich - Dokumente - Baumnavigation](./images/Abbildung-33.jpg "Navigationsbereich - Dokumente - Baumnavigation")
+
+Die Dokumente können über einen Button heruntergeladen werden und manuell die Ansicht aktualisiert werden. Da es bei sehr vielen Dokumenten zu Zeitverzögerungen kommen kann wurde ein Lazy-Loading implementiert.
+Deshalb können über das Reload Icon die einzelnen Embeddings, also Teildokumente, manuel nachgeladen werden. 
+Im oberen Bereich befinden sich Filter- um die Anzahl zu begrenzen und Sortierungsmöglichkeiten nach Quelle, ID und Vorschau. Die Filterresultate aktualisieren sich bereits während der Eingabe.
+Über Icon können Dokumente und somit die Inhalte des RAG bearbeitet werden werden.
+
+|     Symbol   |   Aktion    |
+| ------------ | ----------- | 
+| ![Datei herunterladen](./images/Abbildung-34.jpg "Datei herunterladen")   | Datei herunterladen   | 
+| ![Embeddings laden](./images/Abbildung-35.jpg "Embeddings laden")  		| Embeddings laden (einzeln nachladen)   | 
+| ![Aus RAG-System entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)](./images/Abbildung-36.jpg "Aus RAG-System entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)")  | Aus RAG-System entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)   | 
+| ![Datei endgültig löschen](./images/Abbildung-37.jpg "Datei endgültig löschen")  | Datei endgültig löschen   | 
 
 ![Navigationsbereich - Dokumente - Baum löschen](./images/Abbildung-12.jpg "Navigationsbereich - Dokumente - Baum löschen")
 
@@ -186,7 +195,7 @@ Hier werden die Provider gelistet und verwaltet.
 
 Es können neue Provider angelegt und nur in der Übersichtstabelle, nach einer bestätigten Sicherheitsabfrage, entfernt werden.
 
-![Administration - LLMs und Einbettungsmodelle - Provider anlegen](./images/Abbildung-23.jpg "Administration - LLMs und Einbettungsmodelle - Provider anlegen")
+![Administration - LLMs und Einbettungsmodelle - Provider anlegen](./images/Abbildung-32.jpg "Administration - LLMs und Einbettungsmodelle - Provider anlegen")
 
 Über den Pfeil am rechten Rand kann die Konfiguration geöffnet werden und die notwendigen Modelle können erstellt bzw. nach einer bestätigten Sicherheitsabfrage auch entfernt werden.
 
