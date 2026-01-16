@@ -6,6 +6,7 @@
 | 2.0     | CGS   | 02.02.2026|
 
 
+
 ### Inhaltsverzeichnis
 - 1 [Anwendungsbeschreibung](#1-anwendungsbeschreibung)
 - 1.1 [Assist Anwendung](#11-assist-anwendung)
