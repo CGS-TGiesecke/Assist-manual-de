@@ -22,9 +22,7 @@ Dieses Wissen basiert auf den Inhalten der hinterlegten Dokumente.
 Alle Chatverläufe und Use Case Verläufe werden gespeichert und können auch nach dem Browser schließen und Neuanmeldung wieder geöffnet werden.
 Bestimmte regelmäßige Anwendungsfälle werden im Assist als Templates verwaltet, um Routinen zu vereinfachen. Die Anwendungsfälle sind mit Use Cases wie eine Art Checkliste erstellt.
 
-<img src="images/cgs-Abbildung-start.jpg" alt="CGS Assist" width="300" height="auto">
-<img src="images/cgs-Abbildung-start.jpg" alt="CGS Assist" width="400" height="auto">
-<img src="images/cgs-Abbildung-start.jpg" alt="CGS Assist" width="80%" height="auto">
+![CGS-Assist](images/cgs-Abbildung-start.jpg "CGS Assist")
 
 Über eine Navigation am oberen Rand sind die thematisierten Navigationsbereiche erreichbar.
 
