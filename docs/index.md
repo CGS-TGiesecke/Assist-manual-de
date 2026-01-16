@@ -26,7 +26,7 @@
 - 1.2.7 [Lizenzverwaltung](#127-lizenzverwaltung)
 - 2 [Kontakt](#2-kontakt)
 
-<hr style="page-break-after: always;"/>
+<div style="page-break-after: always;"/>
 
 ## 1. Anwendungsbeschreibung 
 
@@ -212,7 +212,7 @@ Es kann nach Auswahl eine gänzlich neue Lizenz hochgeladen werden.
 
 ![Administration - Lizenzverwaltung - Lizenz laden](./images/Abbildung-31.jpg "Administration - Lizenzverwaltung - Lizenz laden")
 
-<hr style="page-break-after: always;"/>
+<div style="page-break-after: always;"/>
 
 ## 2 Kontakt
 
