@@ -22,7 +22,9 @@ Dieses Wissen basiert auf den Inhalten der hinterlegten Dokumente.
 Alle Chatverläufe und Use Case Verläufe werden gespeichert und können auch nach dem Browser schließen und Neuanmeldung wieder geöffnet werden.
 Bestimmte regelmäßige Anwendungsfälle werden im Assist als Templates verwaltet, um Routinen zu vereinfachen. Die Anwendungsfälle sind mit Use Cases wie eine Art Checkliste erstellt.
 
-![CGS-Assist](images/cgs-Abbildung-start.jpg "CGS Assist")
+<img src="images/cgs-Abbildung-start.jpg" alt="CGS Assist" width="300" height="auto">
+<img src="images/cgs-Abbildung-start.jpg" alt="CGS Assist" width="400" height="auto">
+<img src="images/cgs-Abbildung-start.jpg" alt="CGS Assist" width="80%" height="auto">
 
 Über eine Navigation am oberen Rand sind die thematisierten Navigationsbereiche erreichbar.
 
@@ -40,12 +42,6 @@ Zusätzlich kann eine Auswahl der Sprache innerhalb der Anwendung getroffen werd
 
 #### 1.1.1 Navigationsbereich "KI Chat"
 ![Navigationsbereich "KI Chat"](images/Abbildung-5.jpg "Navigationsbereich "KI Chat"" )
-
----
-
-<img src="images/Abbildung-5.jpg" alt="Alt text" width="100" height="auto">
-
----
 
 #### 1.1.2 Navigationsbereich "Anwendungsfälle" 
 
