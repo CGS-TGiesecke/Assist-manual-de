@@ -122,13 +122,12 @@ Im oberen Bereich befinden sich Filter- um die Anzahl zu begrenzen und Sortierun
 
 |     Symbol   |   Aktion    |
 | ------------ | ----------- | 
-| ![Datei herunterladen](./images/Abbildung-34.jpg "Datei herunterladen")   | Datei herunterladen   | 
+| ![Dokument herunterladen](./images/Abbildung-34.jpg "Dokument herunterladen")   | Dokument herunterladen   | 
 | ![Embeddings laden](./images/Abbildung-35.jpg "Embeddings laden")  		| Embeddings laden (einzeln nachladen)   | 
-| ![Aus RAG-System entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)](./images/Abbildung-36.jpg "Aus RAG-System entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)")  | Aus RAG-System entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)   | 
-| ![Datei endgültig löschen](./images/Abbildung-37.jpg "Datei endgültig löschen")  | Datei endgültig löschen   | 
+| ![Aus RAG-System ((Retrieval Augmented Generation)) entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)](./images/Abbildung-36.jpg "Aus RAG-System ((Retrieval Augmented Generation)) entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)")  | Aus RAG-System ((Retrieval Augmented Generation)) entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)   | 
+| ![Dokument endgültig löschen](./images/Abbildung-37.jpg "Dokument endgültig löschen")  | Dokument endgültig löschen   | 
 
-RAG-System:(Retrieval Augmented Generation)
-Über einen Klick auf das Symbol vor dem Dokument können die Teildokumente angezeigt werden.
+Über einen Klick auf das Symbol vor der Dokument, können die Teildokumente angezeigt werden.
 
 ![Navigationsbereich - Dokumente - Teildokumente öffnen](./images/Abbildung-13.jpg "Navigationsbereich - Dokumente - Teildokumente öffnen")
 
@@ -177,8 +176,8 @@ Die systemseitige erstellte Rollen können nicht gelöscht werden.
 #### 1.2.3 Ordnerverwaltung
 
 Hier können den systemseitig angelegten Ordnern die Rollen zugewiesen werden. Damit wird der Zugriff auf diese Ordner unter Navigationsbereich „Dokumente“ gesteuert.
-Ein Ordner entspricht einen RAG (Retrieval Augmented Generation) Bei Retrieval Augmented Generation (RAG AI) erweitert man den Prompt für das Large Language Model 
-um Suchergebnisse aus einer Dokumentensammlung.Das Wissen für die Antwort kommt also aus angebundenen Quellen.
+Ein Ordner entspricht in der Anwendung einem RAG (Retrieval Augmented Generation). Bei Retrieval Augmented Generation erweitert man den Prompt für das Large Language Model 
+um die Suchergebnisse z.B. aus der Dokumentensammlung. Das Wissen für die Antwort kommt also aus den angebundenen Quellen.
 
 ![Administration - Ordnerverwaltung](./images/Abbildung-20.jpg "Administration - Ordnerverwaltung")
 
