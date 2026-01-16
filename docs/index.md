@@ -83,7 +83,7 @@ Um einen Use Case zu löschen, muss zuerst der Lösch Button betätigt werden un
 Hier werden bei vorhandener Berechtigung, alle automatisierten Anwendungsfälle gelistet und verwaltet.
 Die markierte Nummer (rot) zeigt die Anzahl der aktuellen Ergebnisse das letzten Laufs.
 
-![Navigationsbereich - Automatisierung](images/Abbildung-25.jpg "Navigationsbereich - Automatisierung")
+![Navigationsbereich - Automatisierung](images/Abbildung-27.jpg "Navigationsbereich - Automatisierung")
 
 Zum Öffnen der Zeitpläne wird auf das Symbol mit Namen geklickt.
 In der Übersicht werden alle gespeicherten Zeitpläne angezeigt. Es können hier Neue Zeitpläne erstellt werden und/oder vorhandene gelöscht werden.
@@ -190,7 +190,7 @@ Es können neue Provider angelegt und nur in der Übersichtstabelle, nach einer 
 Hier werden konkrete Anwendungsfälle bzw. Vorlagen dafür hinterlegt. Anwendungsfälle sind Templates als fertige Routinen wie Checklisten um wiederkehrende, Use Case organisierte Anfragen zu stellen. 
 Die Gruppierung der Anwendungsfälle ist systemseitig festgelegt und wird unter Navigationsbereich „Anwendungsfälle“ wieder verwendet.
 
-![Administration - Anwendungsfälle](images/Abbildung-2a.jpg "Administration - Anwendungsfälle")
+![Administration - Anwendungsfälle](images/Abbildung-25.jpg "Administration - Anwendungsfälle")
 
 Hinterlegte Vorlagen können deaktiviert werden. Das steuert die Sichtbarkeit/Verfügbarkeit unter Navigation „Anwendungsfälle“.
 
