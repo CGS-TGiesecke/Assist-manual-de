@@ -9,5 +9,3 @@ Change some places from "CGS Assist" to "Arc Assist"
 	- line 20 "CGS Assist" to "ARC Assist"
 
 
-
-
