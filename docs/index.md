@@ -109,6 +109,10 @@ Habe es auch gelesen ?????
 
 Hier werden alle verfügbaren und durchsuchbaren Dokumente angezeigt, für die der Anwender mit seiner Rolle berechtigt ist.
 
+![Navigationsbereich - Dokumente - Baum löschen](./images/Abbildung-12.jpg "Navigationsbereich - Dokumente - Baum löschen")
+
+In der Baumnavigation werden nur die Ordner gelistet, auf die der Anwender berechtigt ist.
+
 ![Navigationsbereich - Dokumente - Baumnavigation](./images/Abbildung-33.jpg "Navigationsbereich - Dokumente - Baumnavigation")
 
 Die Dokumente können über einen Button heruntergeladen werden und manuell die Ansicht aktualisiert werden. Da es bei sehr vielen Dokumenten zu Zeitverzögerungen kommen kann wurde ein Lazy-Loading implementiert.
@@ -123,15 +127,10 @@ Im oberen Bereich befinden sich Filter- um die Anzahl zu begrenzen und Sortierun
 | ![Aus RAG-System entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)](./images/Abbildung-36.jpg "Aus RAG-System entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)")  | Aus RAG-System entfernen (Dokument bleibt in der Ordnerstruktur gespeichert)   | 
 | ![Datei endgültig löschen](./images/Abbildung-37.jpg "Datei endgültig löschen")  | Datei endgültig löschen   | 
 
-![Navigationsbereich - Dokumente - Baum löschen](./images/Abbildung-12.jpg "Navigationsbereich - Dokumente - Baum löschen")
-
+RAG-System:(Retrieval Augmented Generation)
 Über einen Klick auf das Symbol vor dem Dokument können die Teildokumente angezeigt werden.
 
 ![Navigationsbereich - Dokumente - Teildokumente öffnen](./images/Abbildung-13.jpg "Navigationsbereich - Dokumente - Teildokumente öffnen")
-
-Durch Klick auf ein Dokument in der Spalte „Vorschau“ rechts, wird diese markiert und kann dann z.B. gelöscht werden.
-
-![Navigationsbereich - Dokumente - Dokumente auswählen](./images/Abbildung-14.jpg "Navigationsbereich - Dokumente - Dokumente auswählen")
 
 ### 1.2 Assist Administration
 
@@ -178,6 +177,8 @@ Die systemseitige erstellte Rollen können nicht gelöscht werden.
 #### 1.2.3 Ordnerverwaltung
 
 Hier können den systemseitig angelegten Ordnern die Rollen zugewiesen werden. Damit wird der Zugriff auf diese Ordner unter Navigationsbereich „Dokumente“ gesteuert.
+Ein Ordner entspricht einen RAG (Retrieval Augmented Generation) Bei Retrieval Augmented Generation (RAG AI) erweitert man den Prompt für das Large Language Model 
+um Suchergebnisse aus einer Dokumentensammlung.Das Wissen für die Antwort kommt also aus angebundenen Quellen.
 
 ![Administration - Ordnerverwaltung](./images/Abbildung-20.jpg "Administration - Ordnerverwaltung")
 
