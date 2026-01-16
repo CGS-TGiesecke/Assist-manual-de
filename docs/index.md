@@ -34,24 +34,24 @@ Dieses Wissen basiert auf den Inhalten der hinterlegten Dokumente.
 Alle Chatverläufe und Use Case Verläufe werden gespeichert und können auch nach dem Browser schließen und Neuanmeldung wieder geöffnet werden.
 Bestimmte regelmäßige Anwendungsfälle werden im Assist als Templates verwaltet, um Routinen zu vereinfachen. Die Anwendungsfälle sind mit Use Cases wie eine Art Checkliste erstellt.
 
-![CGS-Assist](./images/cgs-Abbildung-start.jpg "CGS Assist")
+![CGS-Assist](././images/cgs-Abbildung-start.jpg "CGS Assist")
 
 Über eine Navigation am oberen Rand sind die thematisierten Navigationsbereiche erreichbar.
 
-![Navigationsbereiche](images/Abbildung-1.jpg "Navigationsbereiche")
+![Navigationsbereiche](././images/Abbildung-1.jpg "Navigationsbereiche")
 
 Unterseiten dieser Navigationsbereiche sind dann jeweils über die Baumnavigation am linken Rand erreichbar.
 
-![Navigationsbereich - Baumnavigation](images/Abbildung-2.jpg "Navigationsbereich - Baumnavigation")
+![Navigationsbereich - Baumnavigation](././images/Abbildung-2.jpg "Navigationsbereich - Baumnavigation")
 
 Zusätzlich kann eine Auswahl der Sprache innerhalb der Anwendung getroffen werden und die Ansicht in den Dark Mode, bzw. wieder zurück, gewechselt werden.
 
-![Sprachwechsel und Darkmode](images/Abbildung-3.jpg "Sprachwechsel und Darkmode")
+![Sprachwechsel und Darkmode](././images/Abbildung-3.jpg "Sprachwechsel und Darkmode")
  
 ### 1.1 Assist Anwendung
 
 #### 1.1.1 Navigationsbereich "KI Chat"
-![Navigationsbereich "KI Chat"](images/Abbildung-5.jpg "Navigationsbereich "KI Chat"" )
+![Navigationsbereich "KI Chat"](././images/Abbildung-5.jpg "Navigationsbereich "KI Chat"" )
 
 #### 1.1.2 Navigationsbereich "Anwendungsfälle" 
 
@@ -59,45 +59,45 @@ Hier werden alle aktivierten Anwendungsfälle, nach den Bereichen gruppiert, ang
 Anwendungsfälle sind in der Administration hinterlegte und freigegebene Use Case Listen,
 die vor der Ausführung nur noch mit konkreten Inhalten zu befüllen sind. Diese Listen erleichtern routinemäßige Anfragen.
 
-![Navigationsbereich "Anwendungsfälle"](images/Abbildung-6.jpg "Navigationsbereich "Anwendungsfälle"" )
+![Navigationsbereich "Anwendungsfälle"](./images/Abbildung-6.jpg "Navigationsbereich "Anwendungsfälle"" )
 
 Zum Öffnen eines konkreten Anwendungsfalles wird auf das Symbol mit Namen geklickt.
 
-![Navigationsbereich - Anwendungsfälle - Auswahl des Falles](images/Abbildung-7.jpg "Navigationsbereich - Anwendungsfälle - Auswahl des Falles")
+![Navigationsbereich - Anwendungsfälle - Auswahl des Falles](./images/Abbildung-7.jpg "Navigationsbereich - Anwendungsfälle - Auswahl des Falles")
 
 Klick auf ein Symbol mit Namen öffnet den Anwendungsfall zur Datenaufnahme.
 
-![Navigationsbereich - Anwendungsfälle - Auswahl des Falles](images/Abbildung-8.jpg "Navigationsbereich - Anwendungsfälle - Auswahl des Falles")
+![Navigationsbereich - Anwendungsfälle - Auswahl des Falles](./images/Abbildung-8.jpg "Navigationsbereich - Anwendungsfälle - Auswahl des Falles")
 
 Hier werden bereits fertig hinterlegte Use Cases angezeigt, die mit Eingaben befüllt werden können. Anschließend kann die Abfrage durch Klick auf „Ausführen“ gesendet werden.
 Während der Verarbeitung wird eine Wait Box angezeigt und der Statusverlauf als Info angezeigt.
 
-![Navigationsbereich - Anwendungsfälle - Waitbox](images/Abbildung-9.jpg "Navigationsbereich - Anwendungsfälle - Waitbox")
+![Navigationsbereich - Anwendungsfälle - Waitbox](./images/Abbildung-9.jpg "Navigationsbereich - Anwendungsfälle - Waitbox")
 
 Nach der Rückmeldung zur Anfrage kann über einen Butten in den Navigationsbereich „Chat“ geöffnet werden, um auf diesen konkreten Use Case weitere Anfragen zu starten.
 Das Ergebnis einer Anfrage kann auch gespeichert werden und ist dann als separater Chat verfügbar.
 
-![Navigationsbereich - Anwendungsfälle - Löschen eines Falles](images/Abbildung-10.jpg "Navigationsbereich - Anwendungsfälle - Löschen eines Falles")
+![Navigationsbereich - Anwendungsfälle - Löschen eines Falles](./images/Abbildung-10.jpg "Navigationsbereich - Anwendungsfälle - Löschen eines Falles")
 
 Um einen Use Case zu löschen, muss zuerst der Lösch Button betätigt werden und danach die Abfrage mit „OK“ bestätigt werden.
 
-![Navigationsbereich - Anwendungsfälle - Löschen eines Falles](images/Abbildung-11.jpg "Navigationsbereich - Anwendungsfälle - Löschen eines Falles")
+![Navigationsbereich - Anwendungsfälle - Löschen eines Falles](./images/Abbildung-11.jpg "Navigationsbereich - Anwendungsfälle - Löschen eines Falles")
 
 #### 1.1.3 Navigationsbereich "Automatisierung"
 
 Hier werden bei vorhandener Berechtigung, alle automatisierten Anwendungsfälle gelistet und verwaltet.
 Die markierte Nummer (rot) zeigt die Anzahl der aktuellen Ergebnisse das letzten Laufs.
 
-![Navigationsbereich - Automatisierung](images/Abbildung-27.jpg "Navigationsbereich - Automatisierung")
+![Navigationsbereich - Automatisierung](./images/Abbildung-27.jpg "Navigationsbereich - Automatisierung")
 
 Zum Öffnen der Zeitpläne wird auf das Symbol mit Namen geklickt.
 In der Übersicht werden alle gespeicherten Zeitpläne angezeigt. Es können hier Neue Zeitpläne erstellt werden und/oder vorhandene gelöscht werden.
 
-![Navigationsbereich - Automatisierung - Zeitpläne](images/Abbildung-26.jpg "Navigationsbereich - Automatisierung - Zeitpläne")
+![Navigationsbereich - Automatisierung - Zeitpläne](./images/Abbildung-26.jpg "Navigationsbereich - Automatisierung - Zeitpläne")
 
 Im Bereich Ausführungsprotokolle werden alle Programmläufe gelistet. Über einen Button können die genauen Details angesehen werden.
 
-![Navigationsbereich - Automatisierung](images/Abbildung-28.jpg "Navigationsbereich - Automatisierung")
+![Navigationsbereich - Automatisierung](./images/Abbildung-28.jpg "Navigationsbereich - Automatisierung")
 
 Die Lesebestätigung kann verschieden gesetzt werden. 
 Blau Schrift ungelesen
@@ -113,15 +113,15 @@ Im oberen Bereich befinden sich Filter- um die Anzahl zu begrenzen und Sortierun
 Die Filterresultate aktualisieren sich bereits während der Eingabe.
 Über das Upload Icon können Teildokumente geöffnet und gleichzeitig heruntergeladen werden.
 
-![Navigationsbereich - Dokumente - Baum löschen](images/Abbildung-12.jpg "Navigationsbereich - Dokumente - Baum löschen")
+![Navigationsbereich - Dokumente - Baum löschen](./images/Abbildung-12.jpg "Navigationsbereich - Dokumente - Baum löschen")
 
 Über einen Klick auf das Symbol vor dem Dokument können die Teildokumente angezeigt werden.
 
-![Navigationsbereich - Dokumente - Teildokumente öffnen](images/Abbildung-13.jpg "Navigationsbereich - Dokumente - Teildokumente öffnen")
+![Navigationsbereich - Dokumente - Teildokumente öffnen](./images/Abbildung-13.jpg "Navigationsbereich - Dokumente - Teildokumente öffnen")
 
 Durch Klick auf ein Dokument in der Spalte „Vorschau“ rechts, wird diese markiert und kann dann z.B. gelöscht werden.
 
-![Navigationsbereich - Dokumente - Dokumente auswählen](images/Abbildung-14.jpg "Navigationsbereich - Dokumente - Dokumente auswählen")
+![Navigationsbereich - Dokumente - Dokumente auswählen](./images/Abbildung-14.jpg "Navigationsbereich - Dokumente - Dokumente auswählen")
 
 ### 1.2 Assist Administration
 
@@ -130,13 +130,13 @@ Die Speicherordner der Dokumente verwaltet werden, Konfigurationen der Schnittst
 hinterlegten Anwendungsfälle können hier verwaltet werden.
 Der Zugriff auf diese Funktionen der Administration erfolgt über eine systemseitige, festgelegte Rolle.
 
-![Administration](images/Abbildung-15.jpg "Administration")
+![Administration](./images/Abbildung-15.jpg "Administration")
 
 #### 1.2.1 Benutzerverwaltung
 
 Hier können Benutzer angelegt und bearbeitet werden. 
 
-![Administration - Benutzerverwaltung](images/Abbildung-16.jpg "Administration - Benutzerverwaltung")
+![Administration - Benutzerverwaltung](./images/Abbildung-16.jpg "Administration - Benutzerverwaltung")
 
 ##### 1.2.1.1 Benutzer bearbeiten
 
@@ -145,7 +145,7 @@ Eine nachträgliche Änderung das Namen ist nicht möglich.
 Zusätzlich muss ein Passwort vergeben und dem Benutzer eine Rolle zugewiesen werden. Die zugewiesene Rolle kann jederzeit wieder geändert werden. 
 Wird eine zugewiesene Rolle gelöscht, wird diese auch an den zugeordneten Benutzern entfernt.
 
-![Administration - Benutzerverwaltung - Benutzer anlegen](images/Abbildung-17.jpg "Administration - Benutzerverwaltung - Benutzer anlegen")
+![Administration - Benutzerverwaltung - Benutzer anlegen](./images/Abbildung-17.jpg "Administration - Benutzerverwaltung - Benutzer anlegen")
 
 Benutzer können nicht deaktiviert werden und nur in der Übersichtstabelle, nach einer bestätigten Sicherheitsabfrage, entfernt werden.
 
@@ -153,14 +153,14 @@ Benutzer können nicht deaktiviert werden und nur in der Übersichtstabelle, nac
 
 Hier können Rollen angelegt und bearbeitet werden. 
 
-![Administration - Rollenverwaltung](images/Abbildung-18.jpg "Administration - Rollenverwaltung")
+![Administration - Rollenverwaltung](./images/Abbildung-18.jpg "Administration - Rollenverwaltung")
 
 ##### 1.2.2.1 Rollen bearbeiten
 
 Beim Erstellen einer neuen Rolle muss ein systemweit eindeutiger Rollenname vergeben werden. Zu jeder Rolle kann eine Beschreibung angegeben werden. 
 Der Name und die Beschreibung können jederzeit wieder geändert werden.
 
-![Administration - Rollenverwaltung - Rollen anlegen](images/Abbildung-19.jpg "Administration - Rollenverwaltung - Rollen anlegen")
+![Administration - Rollenverwaltung - Rollen anlegen](./images/Abbildung-19.jpg "Administration - Rollenverwaltung - Rollen anlegen")
 
 Rollen können nicht deaktiviert werden und nur in der Übersichtstabelle, nach einer bestätigten Sicherheitsabfrage, entfernt werden. 
 Die systemseitige erstellte Rollen können nicht gelöscht werden.
@@ -169,34 +169,34 @@ Die systemseitige erstellte Rollen können nicht gelöscht werden.
 
 Hier können den systemseitig angelegten Ordnern die Rollen zugewiesen werden. Damit wird der Zugriff auf diese Ordner unter Navigationsbereich „Dokumente“ gesteuert.
 
-![Administration - Ordnerverwaltung](images/Abbildung-20.jpg "Administration - Ordnerverwaltung")
+![Administration - Ordnerverwaltung](./images/Abbildung-20.jpg "Administration - Ordnerverwaltung")
 
 #### 1.2.4 Systemaufforderung
 
 Hier werden textbasierte Anweisung oder Fragen als Aufforderungen (prompts) hinterlegt und beschrieben.
 
-![Administration - Systemaufforderungen](images/Abbildung-21.jpg "Administration - Systemaufforderungen")
+![Administration - Systemaufforderungen](./images/Abbildung-21.jpg "Administration - Systemaufforderungen")
 
 #### 1.2.5.LLMs und Einbettungsmodelle 
 
 Hier werden die Provider gelistet und verwaltet.
 
-![Administration - LLMs und Einbettungsmodelle](images/Abbildung-22.jpg "Administration - LLMs und Einbettungsmodelle")
+![Administration - LLMs und Einbettungsmodelle](./images/Abbildung-22.jpg "Administration - LLMs und Einbettungsmodelle")
 
 Es können neue Provider angelegt und nur in der Übersichtstabelle, nach einer bestätigten Sicherheitsabfrage, entfernt werden.
 
-![Administration - LLMs und Einbettungsmodelle - Provider anlegen](images/Abbildung-23.jpg "Administration - LLMs und Einbettungsmodelle - Provider anlegen")
+![Administration - LLMs und Einbettungsmodelle - Provider anlegen](./images/Abbildung-23.jpg "Administration - LLMs und Einbettungsmodelle - Provider anlegen")
 
 Über den Pfeil am rechten Rand kann die Konfiguration geöffnet werden und die notwendigen Modelle können erstellt bzw. nach einer bestätigten Sicherheitsabfrage auch entfernt werden.
 
-![Administration - LLMs und Einbettungsmodelle - Modelle bearbeiten](images/Abbildung-24.jpg "Administration - LLMs und Einbettungsmodelle - Modelle bearbeiten")
+![Administration - LLMs und Einbettungsmodelle - Modelle bearbeiten](./images/Abbildung-24.jpg "Administration - LLMs und Einbettungsmodelle - Modelle bearbeiten")
 
 #### 1.2.6 Anwendungsfälle
 
 Hier werden konkrete Anwendungsfälle bzw. Vorlagen dafür hinterlegt. Anwendungsfälle sind Templates als fertige Routinen wie Checklisten um wiederkehrende, Use Case organisierte Anfragen zu stellen. 
 Die Gruppierung der Anwendungsfälle ist systemseitig festgelegt und wird unter Navigationsbereich „Anwendungsfälle“ wieder verwendet.
 
-![Administration - Anwendungsfälle](images/Abbildung-25.jpg "Administration - Anwendungsfälle")
+![Administration - Anwendungsfälle](./images/Abbildung-25.jpg "Administration - Anwendungsfälle")
 
 Hinterlegte Vorlagen können deaktiviert werden. Das steuert die Sichtbarkeit/Verfügbarkeit unter Navigation „Anwendungsfälle“.
 
@@ -205,11 +205,11 @@ Hinterlegte Vorlagen können deaktiviert werden. Das steuert die Sichtbarkeit/Ve
 Hier kann die Lizenz verwaltet werden. Es besteht die Möglichkeit der Aktualisierung, wenn die vorhandene ausgetauscht wurde.
 Auch der Kontakt per Mail zum Assist Service ist von hier aus möglich
 
-![Administration - Lizenzverwaltung](images/Abbildung-30.jpg "Administration - Lizenzverwaltung")
+![Administration - Lizenzverwaltung](./images/Abbildung-30.jpg "Administration - Lizenzverwaltung")
 
 Es kann nach Auswahl eine gänzlich neue Lizenz hochgeladen werden.
 
-![Administration - Lizenzverwaltung - Lizenz laden](images/Abbildung-31.jpg "Administration - Lizenzverwaltung - Lizenz laden")
+![Administration - Lizenzverwaltung - Lizenz laden](./images/Abbildung-31.jpg "Administration - Lizenzverwaltung - Lizenz laden")
 
 ## 2 Kontakt
 
