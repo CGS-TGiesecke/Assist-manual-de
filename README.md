@@ -4,8 +4,13 @@
 
 User handbook in German. 
 Change some places from "CGS Assist" to "Arc Assist"
-- docs/index-md 
--- line 25 image "cgs-Abbildung-start" to "arc-Abbildung-start"
--- line 20 "CGS Assist" to "ARC Assist"
+<ul>
+    <li> docs/index-md </li>
+      <ul>
+      <li> line 25 image "cgs-Abbildung-start" to "arc-Abbildung-start" </li>
+      <li> line 20 "CGS Assist" to "ARC Assist"</li>  
+    </ul>
+  </li>
+</ul>
 
 
