@@ -39,7 +39,13 @@ Zusätzlich kann eine Auswahl der Sprache innerhalb der Anwendung getroffen werd
 ### 1.1 Assist Anwendung
 
 #### 1.1.1 Navigationsbereich "KI Chat"
-![Navigationsbereich "KI Chat"](images/Abbildung-5.jpg "Navigationsbereich "KI Chat"" width="500" height="auto")
+![Navigationsbereich "KI Chat"](images/Abbildung-5.jpg "Navigationsbereich "KI Chat"" )
+
+---
+
+<img src="images/Abbildung-5.jpg" alt="Alt text" width="100" height="auto">
+
+---
 
 #### 1.1.2 Navigationsbereich "Anwendungsfälle" 
 
@@ -47,7 +53,7 @@ Hier werden alle aktivierten Anwendungsfälle, nach den Bereichen gruppiert, ang
 Anwendungsfälle sind in der Administration hinterlegte und freigegebene Use Case Listen,
 die vor der Ausführung nur noch mit konkreten Inhalten zu befüllen sind. Diese Listen erleichtern routinemäßige Anfragen.
 
-![Navigationsbereich "Anwendungsfälle"](images/Abbildung-6.jpg "Navigationsbereich "Anwendungsfälle"" =100x100)
+![Navigationsbereich "Anwendungsfälle"](images/Abbildung-6.jpg "Navigationsbereich "Anwendungsfälle"" )
 
 Zum Öffnen eines konkreten Anwendungsfalles wird auf das Symbol mit Namen geklickt.
 
