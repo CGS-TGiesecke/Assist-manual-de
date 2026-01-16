@@ -13,6 +13,16 @@
 - 1.1.2 [Navigationsbereich "Anwendungsfälle"](#112-navigationsbereichn-anwendungsfälle)
 - 1.1.3 [Navigationsbereich "Automatisierung"](#113-navigationsbereich-automatisierung)
 - 1.1.4 [Navigationsbereich "Dokumente"](#114-navigationsbereich-dokumente)
+- 1.2 [Assist Administration](#12-assist-administration)
+- 1.2.1 [Benutzerverwaltung](#121-benutzerverwaltung)
+- 1.2.1.1 [Benutzer bearbeiten](#1211-benutzer-bearbeiten)
+- 1.2.2 [Rollenverwaltung](#122-rollenverwaltung)
+- 1.2.2.1 [Rollen bearbeiten](#1221-rollen-bearbeiten)
+- 1.2.3 [Ordnerverwaltung](#123-ordnerverwaltung)
+- 1.2.4 [Systemaufforderung](#124-systemaufforderung)
+- 1.2.5 [LLMs und Einbettungsmodelle](#125-llms-und-einbettungsmodelle)
+- 1.2.6 [Anwendungsfälle](#126-anwendungsfälle)
+- 2 [Kontakt](#2-kontakt)
 
 
 ## 1. Anwendungsbeschreibung 
@@ -104,6 +114,101 @@ Die Filterresultate aktualisieren sich bereits während der Eingabe.
 Durch Klick auf ein Dokument in der Spalte „Vorschau“ rechts, wird diese markiert und kann dann z.B. gelöscht werden.
 
 ![Navigationsbereich - Dokumente - Dokumente löschen](images/Abbildung-13.jpg "Navigationsbereich - Dokumente - Dokumente löschen")
+
++++
+
+### Assist Administration
+
+Innerhalb der Assist Administration gibt es die Möglichkeit, alle Systemrelevanten Daten zentral zu verwalten. So können Benutzer und Rollen verwaltet werden, 
+Die Speicherordner der Dokumente verwaltet werden, Konfigurationen der Schnittstellen verwaltet werden, die Systemaufforderungen (Promps) verwaltet werden und die systemseitig 
+hinterlegten Anwendungsfälle können hier verwaltet werden.
+Der Zugriff auf diese Funktionen der Administration erfolgt über eine systemseitige, festgelegte Rolle.
+
+![Administration](images/Abbildung-15.jpg "Administration")
+
+#### Benutzerverwaltung
+
+Hier können Benutzer angelegt und bearbeitet werden. 
+
+![Administration - Benutzerverwaltung](images/Abbildung-16.jpg "Administration - Benutzerverwaltung")
+
+##### Benutzer bearbeiten
+
+Beim Erstellen eines Benutzers muss ein systemweit eindeutiger Benutzername vergeben werden. Dieser wird bei der Anmeldung case sensitive verwendet. 
+Eine nachträgliche Änderung das Namen ist nicht möglich.
+Zusätzlich muss ein Passwort vergeben und dem Benutzer eine Rolle zugewiesen werden. Die zugewiesene Rolle kann jederzeit wieder geändert werden. 
+Wird eine zugewiesene Rolle gelöscht, wird diese auch an den zugeordneten Benutzern entfernt.
+
+![Administration - Benutzerverwaltung - Benutzer anlegen](images/Abbildung-17.jpg "Administration - Benutzerverwaltung - Benutzer anlegen")
+
+Benutzer können nicht deaktiviert werden und nur in der Übersichtstabelle, nach einer bestätigten Sicherheitsabfrage, entfernt werden.
+
+#### Rollenverwaltung
+
+Hier können Rollen angelegt und bearbeitet werden. 
+
+![Administration - Rollenverwaltung](images/Abbildung-18.jpg "Administration - Rollenverwaltung")
+
+##### Rollen bearbeiten
+
+Beim Erstellen einer neuen Rolle muss ein systemweit eindeutiger Rollenname vergeben werden. Zu jeder Rolle kann eine Beschreibung angegeben werden. 
+Der Name und die Beschreibung können jederzeit wieder geändert werden.
+
+![Administration - Rollenverwaltung - Rollen anlegen](images/Abbildung-19.jpg "Administration - Rollenverwaltung - Rollen anlegen")
+
+Rollen können nicht deaktiviert werden und nur in der Übersichtstabelle, nach einer bestätigten Sicherheitsabfrage, entfernt werden. 
+Die systemseitige erstellte Rollen können nicht gelöscht werden.
+
+#### Ordnerverwaltung
+
+Hier können den systemseitig angelegten Ordnern die Rollen zugewiesen werden. Damit wird der Zugriff auf diese Ordner unter Navigationsbereich „Dokumente“ gesteuert.
+
+![Administration - Ordnerverwaltung](images/Abbildung-20.jpg "Administration - Ordnerverwaltung")
+
+#### Systemaufforderung
+
+Hier werden textbasierte Anweisung oder Fragen als Aufforderungen (prompts) hinterlegt und beschrieben.
+
+![Administration - Systemaufforderungen](images/Abbildung-21.jpg "Administration - Systemaufforderungen")
+
+#### LLMs und Einbettungsmodelle 
+
+Hier werden die Provider gelistet und verwaltet.
+
+![Administration - LLMs und Einbettungsmodelle](images/Abbildung-22.jpg "Administration - LLMs und Einbettungsmodelle")
+
+Es können neue Provider angelegt und nur in der Übersichtstabelle, nach einer bestätigten Sicherheitsabfrage, entfernt werden.
+
+![Administration - LLMs und Einbettungsmodelle - Provider anlegen](images/Abbildung-23.jpg "Administration - LLMs und Einbettungsmodelle - Provider anlegen")
+
+Über den Pfeil am rechten Rand kann die Konfiguration geöffnet werden und die notwendigen Modelle können erstellt bzw. nach einer bestätigten Sicherheitsabfrage auch entfernt werden.
+
+![Administration - LLMs und Einbettungsmodelle - Modelle bearbeiten](images/Abbildung-24.jpg "Administration - LLMs und Einbettungsmodelle - Modelle bearbeiten")
+
+#### Anwendungsfälle
+
+Hier werden konkrete Anwendungsfälle bzw. Vorlagen dafür hinterlegt. Anwendungsfälle sind Templates als fertige Routinen wie Checklisten um wiederkehrende, Use Case organisierte Anfragen zu stellen. 
+Die Gruppierung der Anwendungsfälle ist systemseitig festgelegt und wird unter Navigationsbereich „Anwendungsfälle“ wieder verwendet.
+
+![Administration - Anwendungsfälle](images/Abbildung-2a.jpg "Administration - Anwendungsfälle")
+
+Hinterlegte Vorlagen können deaktiviert werden. Das steuert die Sichtbarkeit/Verfügbarkeit unter Navigation „Anwendungsfälle“.
+
+## Kontakt
+
+|        |       |
+| ------ | ----- | 
+| Firma  | CGS   | 
+| Straße | Hauptstrasse 1  |
+| PLZ    | 12345   |
+| Ort    | Stadt   |
+| Tel.   | 12345   |
+| Fax    | 12345   |
+| Mail   | 12345   |
+| Web    | 12345   |
+
+
+
 
 
 
