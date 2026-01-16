@@ -1,0 +1,23 @@
+extends: default
+title-page:
+  background-image: image:ASSISTDOC-TitlePage.png[]
+  font-color: '#86888a'
+  font-family: Helvetica
+  font-size: 14
+  align: left
+  title:
+    margin-left: 80
+    font-color: '#86888a'
+    top: 73%
+    font-size: 19
+    font-style: bold
+    margin-bottom: 15
+  subtitle:
+    margin-left: 153
+  authors:
+    margin-left: 153
+    font-color: '#86888a'
+  revision:
+    margin-left: 153
+heading:
+  font-family: Helvetica
