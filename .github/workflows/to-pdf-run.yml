@@ -52,4 +52,4 @@ jobs:
         with:
           name: docs
           path: pdfs
-          run: ls -R
+
